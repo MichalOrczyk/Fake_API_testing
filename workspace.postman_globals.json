@@ -1,0 +1,27 @@
+{
+	"id": "c02aefba-4ebd-4a19-85aa-02517b10edba",
+	"values": [
+		{
+			"key": "title",
+			"value": "global title",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postIdToFurtherUse",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "commentIdToFurtherUse",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-10-02T12:44:56.479Z",
+	"_postman_exported_using": "Postman/11.14.1"
+}
