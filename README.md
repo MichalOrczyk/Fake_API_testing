@@ -2,6 +2,7 @@
 <p>The repository contains a script that tests a fake API. As part of the tests, it sends various requests (GET, POST, PUT, PATCH, and DELETE) and checks the test result.</p>
 <p>The requests use hardcoded data, but also data saved as local variables and global variables. The test also uses data pulled from a separate file. Some variables are dynamically generated during the test execution.</p>
 <p>The test performs three iterations of the defined collection of requests and returns the test result. All assertions should get a "passed" result.</p> 
+
 ![](images/screen.png)
 
 <h1>Requirements</h1>
